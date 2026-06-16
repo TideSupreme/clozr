@@ -1,0 +1,1 @@
+Highest severity: T-05/T-09 authorization gap — `/api/protected` accepts Bearer-only tokens without DPoP proof verification while core business routes are not server-side protected.

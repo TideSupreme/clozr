@@ -1,0 +1,1 @@
+Mixed/demo-grade: good TideCloak patterns are present, but protected business functionality is mostly client-only, DPoP is not enforced at the API, E2EE is undermined by plaintext storage, and policy gating is absent.
